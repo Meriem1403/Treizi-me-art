@@ -1,5 +1,10 @@
 {
-  "description": "A premium digital platform showcasing limited-edition art pieces with artist stories, enabling collectors and businesses to discover, buy, and collaborate.",
+  "title": "13°ART — Éditions Limitées",
+  "description": "Plateforme premium d'art contemporain et d'objets collector en édition limitée. Drops exclusifs, artistes et pièces uniques depuis Marseille.",
+  "language": "fr",
+  "icons": {
+    "icon": "/favicon.svg"
+  },
   "robots": {
     "index": true
   },
