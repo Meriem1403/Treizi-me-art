@@ -1,0 +1,10 @@
+{
+  "description": "A premium digital platform showcasing limited-edition art pieces with artist stories, enabling collectors and businesses to discover, buy, and collaborate.",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
